@@ -2,26 +2,20 @@
 
 **Founder & Engineer** building at the intersection of AI and enterprise software.
 
-Co-founder of [Osmoti](https://osmoti.com) (B2B ad intelligence) and [Keep Safe / Beach Box Safe](https://beachbox.co) (hotel tech, $100K partnership secured). BS Data Science at Georgia Tech, 3.9 GPA.
+Co-founder of [Osmoti](https://app.osmoti.com) (B2B ad intelligence) and [Keep Safe / Beach Box Safe](https://beachbox.co) (hotel tech, $100K partnership secured). BS Data Science at Georgia Tech, 4.0 GPA.
 
 Previously led AI initiatives at Southwire Company delivering $3M+ in value. Research on AI arbitration clause detection presented at Harvard NCRC 2025.
 
-## Currently Building
-
-- **[Osmoti](https://osmoti.com)** — B2B SaaS platform for ad performance management and optimization. Multi-tenant architecture, real-time analytics, LLM-powered insights.
-- **[Keep Safe](https://beachbox.co)** — Smart safe + digital concierge for hotels and resorts. AI chatbot, real-time analytics, first enterprise partnership closed.
 
 ## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [osmoti-backend](https://github.com/rahulmehta25/osmoti-backend) | B2B ad intelligence platform with multi-tenant architecture | TypeScript, Express, Prisma, AWS |
 | [Smart-Legal-Contracts](https://github.com/rahulmehta25/Smart-Legal-Contracts) | AI arbitration clause detection with RAG (Harvard NCRC 2025) | Python, Legal BERT, FastAPI |
-| [AI-Dungeon-Master](https://github.com/rahulmehta25/AI-Dungeon-Master) | Cinematic AI D&D with voice I/O and procedural audio | JavaScript, Vertex AI, Web Audio |
+| [analytics-pro](https://github.com/rahulmehta25/analytics-pro) | Enterprise marketing analytics with natural language queries | Python, FastAPI, BigQuery |
 | [MARA](https://github.com/rahulmehta25/MARA) | Multi-agent research assistant with autonomous task decomposition | Python, LangGraph, Gemini |
 | [MARTA](https://github.com/rahulmehta25/MARTA) | ML demand forecasting for transit systems | Python, XGBoost, LSTM |
 | [CyberNyx](https://github.com/rahulmehta25/CyberNyx) | Cybersecurity event detection framework | Python, Neo4j, GPT-4 |
-| [analytics-pro](https://github.com/rahulmehta25/analytics-pro) | Enterprise marketing analytics with natural language queries | Python, FastAPI, BigQuery |
 
 ## Tech Stack
 
