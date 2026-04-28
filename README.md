@@ -1,4 +1,4 @@
-# Hey, I'm Rahul 👋
+# Hey, I'm Rahul
 
 **Founder & Engineer** building at the intersection of AI and enterprise software.
 
