@@ -1,56 +1,75 @@
-# Hey, I'm Rahul
+<div align="center">
 
-**Founder & Engineer** building at the intersection of AI and enterprise software.
+<!-- Terminal-style profile: typing ASCII portrait + Osmoti-forward neofetch card + live heatmap.
+     Portrait:  python scripts/prep_photo.py source-photo.png && python scripts/make_ascii_svg.py
+     Info card: python scripts/make_info_card.py
+     Heatmap:   python scripts/fetch_contributions.py && python scripts/render_heatmap_svg.py
+     Daily refresh: .github/workflows/update-profile-art.yml -->
 
-Co-founder of [Osmoti](https://app.osmoti.com) (B2B ad intelligence) and [Keep Safe / Beach Box Safe](https://beachbox.co) (hotel tech, $100K partnership secured). BS Data Science at Georgia Tech, 4.0 GPA.
+<h3><code>rahul@github ~ $ whoami</code></h3>
 
-Previously led AI initiatives at Southwire Company delivering $3M+ in value. Research on AI arbitration clause detection presented at Harvard NCRC 2025.
+<table>
+<tr>
+<td valign="top"><img src="./rahul-ascii.svg" width="370" alt="Rahul Mehta — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Rahul Mehta — Osmoti-forward neofetch card" /></td>
+</tr>
+</table>
 
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Smart-Legal-Contracts](https://github.com/rahulmehta25/Smart-Legal-Contracts) | AI arbitration clause detection with RAG (Harvard NCRC 2025) | Python, Legal BERT, FastAPI |
-| [analytics-pro](https://github.com/rahulmehta25/analytics-pro) | Enterprise marketing analytics with natural language queries | Python, FastAPI, BigQuery |
-| [MARA](https://github.com/rahulmehta25/MARA) | Multi-agent research assistant with autonomous task decomposition | Python, LangGraph, Gemini |
-| [MARTA](https://github.com/rahulmehta25/MARTA) | ML demand forecasting for transit systems | Python, XGBoost, LSTM |
-| [CyberNyx](https://github.com/rahulmehta25/CyberNyx) | Cybersecurity event detection framework | Python, Neo4j, GPT-4 |
-
-## Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-## Research & Publications
-
-- **AI Arbitration Clause Detection** — Presented at Harvard NCRC 2025. Built RAG system with Legal BERT for automated contract analysis.
-- **Synthetic Content Detection** — Published at ACMSE 2024. Developed detection methods for AI-generated media.
-- **AI Safety Initiatives** — Technical Fellowship at Georgia Tech exploring alignment and safety in deployed systems.
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/-rahul--mehta.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://rahul-mehta.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmehta25/)
-[![Osmoti](https://img.shields.io/badge/-osmoti.com-6366F1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9zdmc+&logoColor=white)](https://osmoti.com)
-[![Beach Box](https://img.shields.io/badge/-beachbox.co-0EA5E9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9zdmc+&logoColor=white)](https://beachbox.co)
-
----
-
-<details>
-<summary>GitHub Stats</summary>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmehta25&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
-</p>
-</details>
+<br>
+
+<h3><code>rahul@github ~ $ cat ~/impact.txt</code></h3>
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **$3M+** | **$100K** | **5K+** | **8** |
+| efficiency impact | hotel partnership | AI users reached | production prompts audited |
+
+<br>
+
+<h3><code>rahul@github ~ $ cat ~/osmoti.md</code></h3>
+
+### Osmoti — Autonomous Marketing Department
+
+Co-Founder &amp; CTO building [Osmoti](https://osmoti.com): an **autonomous marketing department** for local businesses — the growth layer that runs **iMessage + multi-channel** acquisition (ads, social, search, reviews, follow-up), answers leads in seconds, books work, and attributes every dollar to what produced it.
+
+Paste a site once → brand kit, creatives, campaigns, and follow-up agents share context so each channel makes the others better.
+
+**→** [osmoti.com](https://osmoti.com) · [app.osmoti.com](https://app.osmoti.com)
+
+<br>
+
+<h3><code>rahul@github ~ $ ls ~/ships/</code></h3>
+
+| Ship | What it is |
+|------|------------|
+| [Osmoti](https://osmoti.com) | Autonomous marketing dept — Co-Founder & CTO |
+| [Keep Safe / Beach Box](https://beachbox.co) | Hotel tech · **$100K** partnership secured |
+| Manhattan Associates R&amp;D | Production **agent evaluation** infrastructure |
+| Southwire AI | Enterprise analytics · **$3M+** efficiency impact |
+| [Smart-Legal-Contracts](https://github.com/rahulmehta25/Smart-Legal-Contracts) | Arbitration-clause RAG · Harvard **NCRC 2025** |
+| [analytics-pro](https://github.com/rahulmehta25/analytics-pro) | NL marketing analytics on BigQuery |
+| [MARA](https://github.com/rahulmehta25/MARA) | Multi-agent research assistant (LangGraph) |
+| [MARTA](https://github.com/rahulmehta25/MARTA) | Transit demand forecasting (XGBoost / LSTM) |
+
+<br>
+
+<h3><code>rahul@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Rahul's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>rahul@github ~ $ ./links.sh</code></h3>
+
+<p><b>Co-Founder &amp; CTO @ Osmoti · AI Systems Engineer · Georgia Tech DS '27</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahul--mehta.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rahul-mehta.me)
+[![Osmoti](https://img.shields.io/badge/Osmoti-Autonomous_Marketing-6366F1?style=for-the-badge)](https://osmoti.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulmehta25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmehta25/)
+[![Beach Box](https://img.shields.io/badge/Beach_Box-beachbox.co-0EA5E9?style=for-the-badge)](https://beachbox.co)
+
+<br>
+
+</div>
